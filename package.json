@@ -1,0 +1,24 @@
+{
+  "name": "bingoasp",
+  "version": "1.0.0",
+  "description": "lolstred45",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbotykejian/bingoasp.git"
+  },
+  "dependencies": {
+    "xemeleon32": "^1.0.0",
+    "rresag_tea": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbotykejian/bingoasp/issues"
+  },
+  "homepage": "https://github.com/mbotykejian/bingoasp#readme"
+}
